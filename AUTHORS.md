@@ -1,4 +1,4 @@
 # AUTHORS
 
-* Alejandro Rebagliato
-* Jhon Doe
+* Alejandro Rebagliato 
+* Jhon Doee
